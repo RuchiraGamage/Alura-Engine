@@ -1,0 +1,2 @@
+﻿Application.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) void __cdecl Alura::print(void)" (__imp_?print@Alura@@YAXXZ) referenced in function _main
+C:\dev\Alura\Debug\Sandbox.exe : fatal error LNK1120: 1 unresolved externals

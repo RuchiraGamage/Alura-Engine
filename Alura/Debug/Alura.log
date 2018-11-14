@@ -1,0 +1,2 @@
+﻿     Creating library C:\dev\Alura\Debug\Alura.lib and object C:\dev\Alura\Debug\Alura.exp
+LINK : fatal error LNK1561: entry point must be defined
